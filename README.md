@@ -1,6 +1,6 @@
 # programming
 
 ### GAMES
-###### tic-tac-toe
 ###### Subtract a square game
+###### tic-tac-toe
 ###### Armstrong number
